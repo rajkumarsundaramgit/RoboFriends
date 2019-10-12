@@ -1,2 +1,2 @@
 # RoboFriends
-First React Project
+RoboFriends React Project
